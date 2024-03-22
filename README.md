@@ -1,4 +1,6 @@
 # RETO-4
+Katherinne Lucia Paguatian Moreno
+
 
 ## Shape:
 
