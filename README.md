@@ -184,7 +184,7 @@ print("Inner angles: ", scalene_triangle.compute_inner_angles())
 
 ## RESTAURANT 
 
-```
+``` python
 class MenuItem:
     def __init__(self, name, price, size):
         self._name = name
