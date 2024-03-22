@@ -180,6 +180,11 @@ print("\nInformación del triángulo escaleno:")
 print("Perímetro:", scalene_triangle.compute_perimeter())
 print("Área:", scalene_triangle.area_triangle())
 print("Inner angles: ", scalene_triangle.compute_inner_angles())
+
+print("\nInformación del cuadrado:")
+print("Perímetro:", square.compute_perimeter())
+print("Área:", square.compute_area())
+
 ```
 
 ## RESTAURANT 
@@ -330,10 +335,5 @@ print("Discounted bill amount:", discount)
 payment1 = Card(123456789, 123, "12/23")
 
 payment1.pay(discount)
-
-```
-print("\nInformación del cuadrado:")
-print("Perímetro:", square.compute_perimeter())
-print("Área:", square.compute_area())
 
 ```
